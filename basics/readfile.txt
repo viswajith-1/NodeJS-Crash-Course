@@ -1,0 +1,1 @@
+the files written on this file will be written to output.txt through pipe
